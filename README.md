@@ -46,10 +46,16 @@ variance.  The DR statistic is the ratio of these two ratios.
 
 The "data by day" file contains summary data for the experimental
 units:
+
  -- The unit number (within the unit type)
+ 
  -- The unit type (24 or 48 hours)
+ 
  -- The seeding allocation (0=no seed, 1=seed)
+ 
  -- The winter 
+ 
  -- The average rainfall across the reporting rain gauges
+ 
  -- The average forecast rainfall (from the COSMO prediction)
     for the same gauges included in the actual rainfall average  
