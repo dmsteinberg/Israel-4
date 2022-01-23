@@ -1,6 +1,6 @@
-					Israel 4 Data and Code
-			  Yoav Benjamini and David Steinberg
-	Rotem Rozenblum collated the data and wrote the code file.
+		Israel 4 Data and Code
+	  Yoav Benjamini and David Steinberg
+Rotem Rozenblum collated the data and wrote the code file.
 
 This archive contains data and analysis code for the Israel 4
 cloud seeding experiment.  The experiment was conducted during
